@@ -1,0 +1,9 @@
+{
+  "prettier.configPath": "./frontend/.prettierrc",
+  "eslint.workingDirectories": ["./frontend"],
+  "eslint.validate": ["typescript", "javascript", "vue"],
+  "editor.formatOnSave": true,
+  "python.formatting.provider": "black",
+  "python.linting.enabled": true,
+  "python.linting.pylintEnabled": true
+}
